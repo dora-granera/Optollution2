@@ -1,0 +1,519 @@
+h1{
+    text-align: center;
+   font-family: 'Sedgwick Ave', cursive;
+    font-size: 3.5em;
+    color: white;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-family: 'Julius Sans One', sans-serif;
+    color: lightskyblue;
+    
+}
+
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    
+}
+
+ 
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 13%;
+    background-color: black;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+    
+}
+    
+
+
+li a{
+    display: block;
+    color: white;
+    padding: 12px 30px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Faster One', cursive;
+
+    
+}
+
+li a.active {
+    background-color: blue;
+    color: blue;
+}
+
+li a:hover:not(.active) {
+    background-color: blue;
+    color: white;
+}
+
+.pollution{
+    font-size: 19px;
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+
+    margin-left: 7%;
+    margin-right: 7%;
+}
+
+
+.spin {
+  transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+  width: 250px;
+  height: 150px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+    
+    
+}
+
+.spin:hover {
+  transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  transform: rotate(180deg);
+} 
+
+.boxed{
+    color: white;
+    border: 1px solid black ;
+    background-color: black;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-bottom: 5%;
+    
+    
+    
+}
+
+.boxed2{
+    color: black;
+    border: 1px solid black ;
+    background-color: white;
+    margin-left: 40%;
+    margin-right: 40%;
+    padding-bottom: 5%; 
+    
+     transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+    
+
+}
+
+.location{
+    margin-left: 35%;
+    
+}
+
+.boxed2:hover{
+  
+    transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  transform: rotate(180deg);  
+}
+
+.boxed3{
+ 
+ color: black;
+    border: 1px solid black ;
+    background-color: darkblue;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-bottom: 5%; 
+}
+
+.inw{
+    color: white;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    font-size: 20px;
+    
+}
+
+.samef{
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    font-size: 25px;
+     font-family: 'Righteous', cursive;
+}
+
+.boxed4{
+    color: black;
+    border: 1px solid black ;
+    background-color: black;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-bottom: 5%; 
+}
+
+#samef1{
+    color: yellow;
+     font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    font-size: 25px;
+     font-family: 'Righteous', cursive;
+}
+
+#samef2{
+    color: lightgreen;
+     font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    font-size: 25px;
+     font-family: 'Righteous', cursive;
+}
+#samef3{
+    color: lightsalmon;
+     font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    font-size: 25px;
+     font-family: 'Righteous', cursive;
+}
+#samef4{
+    color: lightpink;
+     font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    font-size: 25px;
+     font-family: 'Righteous', cursive;
+}
+#samef5{
+    color: red;
+     font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    font-size: 25px;
+     font-family: 'Righteous', cursive;
+}
+#samef6{
+    color: lightgray;
+     font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    font-size: 25px;
+     font-family: 'Righteous', cursive;
+}
+#barg{
+    color: blue;
+     font-family: 'Shadows Into Light', cursive;
+    text-align: center;
+    font-size: 22px;
+    margin-left: 12%;
+    margin-right: 12%;
+    
+    
+    
+    
+}
+
+#boxedcool{
+    color: blue;
+    border: 1px solid black ;
+    background-color: black;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-bottom: 1%;
+    
+}
+
+#bar{
+    margin-left: 23%;
+    
+    transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+    
+}
+
+#bar:hover{
+    transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  transform: rotate(180deg); 
+}
+
+#bar2{
+    margin-left: 31%;
+    margin-bottom: 5%;
+    
+      transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+}
+#bar2:hover{
+   transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  transform: rotate(180deg);  
+}
+#inw{
+    color: ;
+     text-align: center;
+    font-family: 'Righteous', cursive;
+}
+
+#glasses{
+    margin-left: 37%;
+     position: absolute;
+    
+    width: 420px;
+    height: 490px;
+    
+    -webkit-animation:spin 4s linear infinite;
+    -moz-animation:spin 4s linear infinite;
+    animation:spin 4s linear infinite;
+}
+
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+   
+}
+
+#bginfo{
+    font-family: 'Faster One', cursive;
+
+
+}
+
+#link{
+    color: red;
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+
+}
+
+#link2{
+    color: lightcyan;
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+#spin2{
+     transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+  width: 300px;
+  height: 150px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#spin2:hover {
+  transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  transform: rotate(180deg);
+} 
+
+#scatter{
+    margin-left: 30%;
+    
+    transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+  width: 55 0px;
+  height: 350px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+    
+}
+
+#scatter:hover{
+    transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+
+#eyes{
+    height: 130px;
+    width: 220px;
+    margin-left: 530px;
+}
+
+#logo{
+ margin-left: 44%;
+    
+} 
+
+#welcome{
+    font-size: 29px;
+    text-align: center;
+    font-family: 'Faster One', cursive;
+}
+
+#feel{
+   margin-left: 6%;
+    margin-right: 4%;
+    
+    font-family: 'Josefin Sans', sans-serif;
+    letter-spacing: 2px;
+    line-height: 28px;
+    }
+
+#infoformath{
+    background-color: black;
+    color: blue;
+      font-family: 'Shadows Into Light', cursive;
+    margin-top: 8%;
+    margin-left: 5%;
+    margin-right: 5%;
+    line-height: 35px;
+    font-size: 23px;
+}
+
+#infoformath2{
+    background-color: black;
+    color: yellow;
+      font-family: 'Shadows Into Light', cursive;
+    margin-top: 8%;
+    margin-left: 5%;
+    margin-right: 5%;
+    line-height: 35px;
+    font-size: 23px;
+}
+#infoformath3{
+    background-color: black;
+    color: orange;
+    font-family: 'Shadows Into Light', cursive;
+    margin-top: 8%;
+    margin-left: 5%;
+    margin-right: 5%;
+    line-height: 35px;
+    font-size: 23px;
+}
+
+#yaxis{
+    color: aquamarine; 
+    background-color: black;
+    
+    font-family: 'Shadows Into Light', cursive;
+    margin-top: 8%;
+    margin-left: 5%;
+    margin-right: 5%;
+    line-height: 35px;
+    font-size: 23px;
+}
+
+#currentinfo{
+     color: blue; 
+    background-color: black;
+    
+    font-family: 'Shadows Into Light', cursive;
+    margin-top: 8%;
+    margin-left: 5%;
+    margin-right: 5%;
+    line-height: 40px;
+    font-size: 23px; 
+}
+
+#location2{
+    margin-left: 28%;
+}
+
+#databox{
+     color: black;
+    border: 1px solid black ;
+    background-color: white;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-bottom: 5%; 
+}
+
+#conclude{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 23px;
+    color: black;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#visual{
+        font-family: 'Julius Sans One', sans-serif;
+    color: darkblue;
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+#glasses2{
+     
+      margin-left: 10%;
+     position: absolute;
+    
+    width: 310px;
+    height: 290px;
+
+    -webkit-animation:spin 4s linear infinite;
+    -moz-animation:spin 4s linear infinite;
+    animation:spin 4s linear infinite;
+}
+
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+   
+}
+
+}
